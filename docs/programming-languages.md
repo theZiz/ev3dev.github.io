@@ -122,6 +122,12 @@ ev3dev-c also has wrappers for [Python](https://github.com/in4lio/ev3dev-c/tree/
 Ev3devKit also has a Python wrapper. You can find demos of using ev3devKit from
 Python [here](https://github.com/ev3dev/ev3devKit/tree/ev3dev-jessie/demo/python).
 
+## C
+<https://github.com/theZiz/ev3c>
+
+An alternative easy to use C library with support for buttons, leds, basic graphic functions beside support for most motors and sensors.
+
+
 # Out-of-date, abandoned and unfinished implementations
 
 {% include /style/begin-panel.html type="danger" heading="Listings below this point are for libraries that are not up-to-date, have been abandoned, or are unfinished." %}
@@ -159,6 +165,3 @@ contributing to it to get it updated and ready to use.
 
 ## Go (alternative library)
 <https://github.com/ldmberman/GoEV3>
-
-## C (alternative library)
-<https://github.com/theZiz/ev3c>
